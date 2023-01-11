@@ -1,11 +1,9 @@
 # Avatar-closet
 
-Need download
+Download "avatar closet here Release:
+https://github.com/EstebanTby/Avatar-closet/releases
 
-# Cyan-trigger-examples
-
-Download proyect here Release:
-https://github.com/EstebanTby/Cyan-trigger-examples/releases
+# Need download
 
 1) you must have in unity:
 -SDk3
